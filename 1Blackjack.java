@@ -1,6 +1,7 @@
 
 import java.util.Scanner;
 // hello i am typing this for lab 6
+// I love this class
 public class Blackjack {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
